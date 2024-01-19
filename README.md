@@ -1,9 +1,9 @@
 
-**Portfolio Website**
+# **Portfolio Website**
 
 Welcome to the repository of my personal portfolio website. This website showcases my skills, projects, and provides information about me. It was built using HTML, CSS, and JavaScript.
 
-**Table of Contents**
+# **Table of Contents**
 
 - Home
 + My Services
@@ -26,7 +26,7 @@ The "Contact" section provides various ways for visitors to get in touch with me
 
 In the "About Me" section, I share more details about my background, experiences, and interests. This can include education, work history, hobbies, or any other relevant information that helps visitors get to know me better.
 
-**Technologies Used**
+# **Technologies Used**
 
 `HTML
 CSS
@@ -51,10 +51,10 @@ While contributions to this personal portfolio may not be applicable, I apprecia
 
 
 
-**License**
+# **License**
 
 This project is licensed under the MIT License.
 
-**Acknowledgments**
+# **Acknowledgments**
 
 I want to express my gratitude to [list any libraries, frameworks, or resources you used], which significantly contributed to the development of this portfolio.
