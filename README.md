@@ -1,3 +1,4 @@
+
 **Portfolio Website**
 
 Welcome to the repository of my personal portfolio website. This website showcases my skills, projects, and provides information about me. It was built using HTML, CSS, and JavaScript.
@@ -43,6 +44,12 @@ cd your-portfolio
 
 `Contributing
 While contributions to this personal portfolio may not be applicable, I appreciate feedback and suggestions. If you notice any issues or have ideas for improvements, feel free to open an issue or reach out directly.`
+
+![Screenshot (93)](https://github.com/jezzyll/Demo-Portfolio/assets/119606762/5cdfb704-ba17-473c-97af-016d8ff1dc29)
+![Screenshot (94)](https://github.com/jezzyll/Demo-Portfolio/assets/119606762/2ebace2c-1645-4da0-9200-6fe0e5e8dad4)
+![Screenshot (95)](https://github.com/jezzyll/Demo-Portfolio/assets/119606762/4dbf1be3-4bed-4cde-b6c0-ecc52392f099)
+
+
 
 **License**
 
